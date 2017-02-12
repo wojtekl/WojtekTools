@@ -1,6 +1,7 @@
 # WojtekTools
 tools for LibreOffice created by me:
 - RemoveDuplicates
+- ComContOfCol
 
 ## SCREENSHOTS
 ![preview](/preview.png)
